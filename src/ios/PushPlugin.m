@@ -27,6 +27,7 @@
 #define GMP_NO_MODULES true
 
 #import "PushPlugin.h"
+@import Firebase;
 @import FirebaseInstanceID;
 @import FirebaseMessaging;
 @import FirebaseAnalytics;
